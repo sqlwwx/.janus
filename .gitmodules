@@ -1,3 +1,12 @@
 [submodule "vim-vue"]
 	path = vim-vue
 	url = https://github.com/darthmall/vim-vue.git
+[submodule "vim-js2coffee"]
+	path = vim-js2coffee
+	url = git@github.com:JarrodCTaylor/vim-js2coffee.git
+[submodule "calendar-vim"]
+	path = calendar-vim
+	url = git@github.com:sqlwwx/calendar-vim.git
+[submodule "wwx-vim"]
+	path = wwx-vim
+	url = git@github.com:sqlwwx/wwx-vim.git
